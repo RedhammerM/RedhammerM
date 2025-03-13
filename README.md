@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-I'm an aspiring engineer struguling with programing. More with github and linux than actual programing to be honest.
+I'm an aspiring biomechanical nad electrical engineer. I study biomechanics at CTU in Prague. This year I am applying for masters degree in medical electronics at faculty of electrotechnology CTU.
 
-
-- 🔭 I’m currently debating myself why I didn't go study bioinformatics
-- 🌱 I’m currently learning about bioimpedance, biosensors and medical imaging technology.
+- 🔭 I’m currently finding topics for my final thesis.
+- 🌱 I’m currently learning about MRI, CT, biosensors and other medical imaging technology.
 - 📫 How to reach me: redhammer.michal@proton.me
 - ⚡ Fun fact: I run a lot
--->
+
